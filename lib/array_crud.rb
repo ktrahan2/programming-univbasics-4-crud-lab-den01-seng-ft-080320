@@ -1,5 +1,5 @@
 def create_an_empty_array
-  
+  newarray = ["potatoe", "tomato", "carrot", "cucumber"]
 end
 
 def create_an_array
